@@ -30877,6 +30877,18 @@
 	<item fromid="23702" toid="23703" name="voting results" >
 		<attribute key="description" value="This board will notify you of all relevant voting results, courtesy of the Rathleton Magistrate." />
 	</item>
+	<item id="23722" article="a" name="light stone shower rune">
+		<attribute key="type" value="rune" />
+		<attribute key="runeSpellName" value="adori infir mas tera" />
+		<attribute key="weight" value="210" />
+		<attribute key="charges" value="4" />
+	</item>
+	<item id="23723" article="a" name="lightest missile rune">
+		<attribute key="type" value="rune" />
+		<attribute key="runeSpellName" value="adori infir vis" />
+		<attribute key="weight" value="210" />
+		<attribute key="charges" value="4" />
+	</item>
 	<item id="23754" article="a" name="stone of insight">
 		<attribute key="weight" value="999" />
 		<attribute key="description" value="This rare artefact can be traded with Milos or Trimegis for a fraction of their knowledge." />
@@ -30905,6 +30917,15 @@
 		<attribute key="writeable" value="1" />
 		<attribute key="maxTextLen" value="99" />
 		<attribute key="description" value="Carry all you need for battle in it. Sponsored by TibiaWars.com." />
+	</item>
+	<item id="23839" article="a" name="simple arrow">
+		<attribute key="weight" value="60" />
+		<attribute key="slotType" value="ammo" />
+		<attribute key="attack" value="20" />
+		<attribute key="weaponType" value="ammunition" />
+		<attribute key="ammoType" value="arrow" />
+		<attribute key="shootType" value="simplearrow" />
+		<attribute key="maxHitChance" value="91" />
 	</item>
 	<item fromid="23846" toid="23868" name="lava" />
 	<item fromid="23857" toid="23851" name="lava" />
